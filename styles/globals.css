@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,400;0,500;0,600;0,900;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html {
+        scroll-behavior: smooth;
+    }
+
+    body {
+        font-family: 'Poppins', sans-serif;
+    }
+
+    code {
+        font-family: 'Source Code Pro', monospace;
+    }
+}
+
+@layer components {
+    .nav-link {
+        @apply text-sm text-gray-500 font-medium
+    }
+
+    .p-text {
+        @apply text-sm text-gray-500 font-medium
+    }
+
+    /*.head-text {*/
+    /*    @apply*/
+    /*}*/
+    .bg-menu {
+        background-image: url('../images/bgWhite.webp');
+        background-color: white;
+        background-size: cover;
+        background-repeat: repeat;
+    }
+
+    .bg-header {
+        background: url("../images/bgIMG.webp");
+        background-size: cover;
+        background-position: center;
+        background-repeat: repeat;
+    }
+}
