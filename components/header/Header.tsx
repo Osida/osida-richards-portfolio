@@ -134,4 +134,4 @@ const TechBubbles = () => (
     </motion.div>
 )
 
-export default AppWrap(Header, 'home', 'bg-header');
+export default AppWrap(Header, 'home', 'bg-primary bg-header');
