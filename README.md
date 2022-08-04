@@ -1,4 +1,10 @@
 
+<div align="center">
+  <img width="600" style="border-radius:50%" alt="Osida | Portfolio" src="https://user-images.githubusercontent.com/51928654/182768258-107ca530-3321-48f1-8646-31eb9f13ce0f.png">
+</div>
+
+ <br/>
+ 
 <h1 align="center">Osida Richards Portfolio 📄✨</h1>
 
 Hey, I'm Osida! Welcome to my software developer portfolio. To visit the live version, [click here](https://osida-richards-portfolio.vercel.app).
@@ -17,13 +23,6 @@ Hey, I'm Osida! Welcome to my software developer portfolio. To visit the live ve
 - **Styling**: [Tailwind CSS](https://tailwindcss.com)
 - **CMS**: [Sanity](https://www.sanity.io)
 - **Deployment**: [Vercel](https://vercel.com)
-
-## 📸 Screenshots
-
-<div display="flex">
-  <img width="400" alt="image" src="https://user-images.githubusercontent.com/51928654/182764853-a9257e16-4c3a-42f5-bf02-a8a58c51d482.png">
-  <img width="110" alt="image" src="https://user-images.githubusercontent.com/51928654/182765244-d895edde-39c1-4ce2-b07c-649eb0a3c40a.png">
-</div>
 
 ## ✒️ Authors
 
