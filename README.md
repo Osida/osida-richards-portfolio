@@ -1,12 +1,16 @@
 
-# Osida Richards Portfolio 📄✨
+<h1 align="center">Osida Richards Portfolio 📄✨</h1>
 
-Hey, I'm Osida! Welcome to my software developer portfolio.
+Hey, I'm Osida! Welcome to my software developer portfolio. To visit the live version, [click here](https://osida-richards-portfolio.vercel.app).
+
+
+### 🤝 Connect with me
+<a href="https://www.linkedin.com/in/osida-richards-780524243/"><img align="left" src="https://www.svgrepo.com/show/70809/linkedin.svg" alt="Osida | LinkedIn" width="20px"/></a>
+
 <br/>
 <br/>
-To visit the live version, [click here](https://osida-richards-portfolio.vercel.app).
 
-## Stack 💻
+## 💻 Stack
 
 - **Framework**: [Next.js](https://nextjs.org)
 - **Language**: [Typescript](https://www.typescriptlang.org)
@@ -14,19 +18,15 @@ To visit the live version, [click here](https://osida-richards-portfolio.vercel.
 - **CMS**: [Sanity](https://www.sanity.io)
 - **Deployment**: [Vercel](https://vercel.com)
 
-## Site Tour 🚌
+## 📸 Screenshots
 
-### Desktop Tour
+<div display="flex">
+  <img width="400" alt="image" src="https://user-images.githubusercontent.com/51928654/182764853-a9257e16-4c3a-42f5-bf02-a8a58c51d482.png">
+  <img width="110" alt="image" src="https://user-images.githubusercontent.com/51928654/182765244-d895edde-39c1-4ce2-b07c-649eb0a3c40a.png">
+</div>
 
-https://user-images.githubusercontent.com/51928654/182723281-5c0d0fc0-543f-4c0e-a7b5-da63a1f34b98.mp4
-
-
-### Mobile Tour
-
-https://user-images.githubusercontent.com/51928654/182723184-7159f95c-1ec9-403e-9dcd-4542ff7e248e.mp4
-
-
-## Authors ✒️
+## ✒️ Authors
 
 - [@Osida](https://github.com/Osida)
+
 
