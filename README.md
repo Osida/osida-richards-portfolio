@@ -6,7 +6,7 @@ Hey, I'm Osida! Welcome to my software developer portfolio.
 <br/>
 To visit the live version, [click here](https://osida-richards-portfolio.vercel.app).
 
-## Featured Technology 💻
+## Stack 💻
 
 - **Framework**: [Next.js](https://nextjs.org)
 - **Language**: [Typescript](https://www.typescriptlang.org)
