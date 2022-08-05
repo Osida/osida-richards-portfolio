@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="600" style="border-radius:50%" alt="Osida | Portfolio" src="https://user-images.githubusercontent.com/51928654/182768258-107ca530-3321-48f1-8646-31eb9f13ce0f.png">
+  <img width="500" style="border-radius:50%" alt="Osida | Portfolio" src="https://user-images.githubusercontent.com/51928654/182768258-107ca530-3321-48f1-8646-31eb9f13ce0f.png">
 </div>
  
 <h1 align="center">Osida Richards Portfolio 📄✨</h1>
