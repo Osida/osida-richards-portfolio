@@ -6,7 +6,6 @@ import reactAtomic from './react-atomic.webp'
 import typescriptCube from './typescript-cube.webp'
 import tailwind from './tailwind.webp'
 import designer from './designer.webp'
-import oflix from './oflix-thumbnail.webp'
 
 const images = {
     logo,
@@ -17,7 +16,6 @@ const images = {
     typescriptCube,
     tailwind,
     designer,
-    oflix,
 }
 
 export default images

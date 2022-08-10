@@ -19,7 +19,7 @@ const motionMenu = {
     },
 }
 
-const {info: {navbar:{menu_links}}} = data
+const {info: {navbar: {menu_links}}} = data
 
 const Menu = () => {
     const {menuToggle, handleMenuToggle} = ToggleMenu();

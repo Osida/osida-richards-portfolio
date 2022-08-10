@@ -1,6 +1,5 @@
 import {CodeIcon, CogIcon, FingerPrintIcon, HomeIcon, InboxInIcon} from "@heroicons/react/solid";
 import images from "../assets/images";
-import socials from "./social-media";
 import {FaGithubAlt, FaLinkedinIn} from "react-icons/fa";
 
 const data = {
