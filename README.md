@@ -1,34 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+<div align="center">
+  <img width="450" style="border-radius:50%" alt="Osida | Portfolio" src="https://user-images.githubusercontent.com/51928654/182768258-107ca530-3321-48f1-8646-31eb9f13ce0f.png">
+</div>
 
-First, run the development server:
+<h1 align="center">Osida Richards Portfolio 📄✨</h1>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Hey, I'm Osida! Welcome to my software developer portfolio. To visit the live version, [click here](https://osida-richards-portfolio.vercel.app).
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+### 🤝 Connect with me
+<a href="https://www.linkedin.com/in/osida-richards-780524243/"><img align="left" src="https://www.svgrepo.com/show/70809/linkedin.svg" alt="Osida | LinkedIn" width="20px"/></a>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+<br/>
+<br/>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## 💻 Stack
 
-## Learn More
+- **Framework**: [Next.js](https://nextjs.org)
+- **Language**: [Typescript](https://www.typescriptlang.org)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com)
+- **CMS**: [Sanity](https://www.sanity.io)
+- **Deployment**: [Vercel](https://vercel.com)
 
-To learn more about Next.js, take a look at the following resources:
+## ✒️ Authors
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [@Osida](https://github.com/Osida)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
