@@ -39,6 +39,7 @@ const Contact = () => {
         }
     })
 
+
     return (
         <footer
             className={'w-full h-full flex flex-col items-center justify-center space-y-16 lg:space-y-20 lg:min-h-[90vh]'}>
